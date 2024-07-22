@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ellie
-- 👀 I’m interested in web development, UI/UX design, dogs, and memoirs!
+- 👀 I’m interested in OOP, test-driven development, dogs, and reading!
 - 🌱 I’m currently learning Javascript!
-- 💞️ I’m looking to collaborate on web development and front-end development opportunities.
+- 💞️ I’m looking to collaborate on challenging full-stack development opportunities.
 
 <!---
 ekl3322/ekl3322 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
